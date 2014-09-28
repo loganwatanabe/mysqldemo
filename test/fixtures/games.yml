@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  home: MyString
+  away: MyString
+  location: MyString
+  time: 2014-09-24 21:03:11
+  week: 1
+
+two:
+  home: MyString
+  away: MyString
+  location: MyString
+  time: 2014-09-24 21:03:11
+  week: 1
